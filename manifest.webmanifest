@@ -1,0 +1,25 @@
+{
+  "name": "SBS Bygg Entreprenør AS",
+  "short_name": "SBS Bygg",
+  "description": "SBS Bygg Entreprenør AS utfører snekkerarbeid på Matrand. Ring eller send e-post og fortell hva du trenger hjelp til.",
+  "lang": "nb",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#c2410c",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
